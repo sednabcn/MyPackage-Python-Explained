@@ -14,7 +14,7 @@ often looks like this::
 
 Installation
 ------------
--Download the package from https://github.com/sednbcn/Mypackage-Python-Explained
+-Download the package from https://github.com/sednbcn/Python-Package-Explained
 -Make the dir MyPackage and put into it all files downloaded
 Install locally: pip3 install .
 Install to the system: sudo python setup.py install
